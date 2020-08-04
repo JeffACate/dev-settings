@@ -4,14 +4,14 @@ Settings for my development environment
 ### To do 
 * [ ] This file with explanation of repo and how to use.
 * [ ] browser
-    * [ ] Notes (.md)
+    * [ ] .md
     * [ ] extensions.txt
 * [ ] vscode
-    * [ ] Notes (.md)
+    * [ ] .md
     * [ ] extensions.txt
     
 ### Stretch 
-* [ ] Version control for cross platform
+* [ ] Split for specified platform
     * [ ] Windows
-    * [ ] macOS
     * [ ] Linus OS
+* [ ] Setup auto-run
