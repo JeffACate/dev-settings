@@ -1,4 +1,4 @@
-## DEV - ENV
+## DEVELOPMENT ENVIRONMENT
 Settings for my development environment
 
 ### Fonts
@@ -7,8 +7,10 @@ Settings for my development environment
 
 ### [VS Code Settings](https://github.com/JeffACate/dev-settings/blob/master/vscode/vscode.md)
 
+### System specifics
 * [Windows](https://www.github.com/JeffACate/dev-settigns/DotNet) 
 * [Linus OS](https://www.github.com/JeffACate/dev-settigns/Unix)
+
 
 ### To do 
 * [ ] DotNet
@@ -23,3 +25,4 @@ Settings for my development environment
     * [x] .md
     * [x] extensions.txt
     
+### Transition To Do:

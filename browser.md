@@ -4,25 +4,52 @@
     * [General Settings](about:preferences)
 * [Chrome](https://www.google.com/chrome/)
 
+
 ### Add-ons
 * Extensions [extensions](<!-- link to viewable txt file -->)
     * [Tabliss.io](https://tabliss.io)
     * [Stylus](https://addons.mozilla.org/addon/tabliss?src=external-tabliss.io)
     * [Http-everywhere](https://www.eff.org/https-everywhere)
-    * [Json Lite - Firefox](https://addons.mozilla.org/en-US/firefox/addon/json-lite/) 
+    * [JSON Viewer - Brave/Chrome](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?h1=en) 
+        ```
+        Theme: dracula-dark
+        Add-ons
+        {
+            "prependHeader": true,
+            "maxJsonSize": 1000,
+            "alwaysFold": false,
+            "alwaysRenderAllContent": false,
+            "sortKeys": false,
+            "clickableUrls": true,
+            "wrapLinkWithAnchorTag": false,
+            "openLinksInNewWindow": true,
+            "autoHighlight": true
+        }
+        Structure:
+        {
+            "readOnly": true,
+            "lineNumbers": true,
+            "lineWrapping": true,
+            "foldGutter": true,
+            "tabSize": 4,
+            "indentCStyle": false,
+            "showArraySize": false
+        }
+
+        Custom Style:
+        .CodeMirror {
+            font-family: Anonymous Pro, Calibri,monaco, Consolas, Menlo, Courier, monospace;
+            font-size: 16px;
+            line-height: 1.5em;
+        }
+
+        ```
 * Themes 
     * [Github Dark](https://github.com/StylishThemes/GitHub-Dark)
 
-### To Do
-* [ ] Bookmarks
-    * [ ] Organize
-    * [ ] Export
-    * [ ] Store(setup account)
-        * [ ] Firefox
-        * [ ] Chrome
-
-
 <!--
+### Bookmarks
+
     * [Bullet Point text](Linked Address here)
         * Description of address above
 
