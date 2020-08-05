@@ -1,5 +1,0 @@
-Tabliss.io - https://tabliss.io
-Stylus - https://addons.mozilla.org/addon/tabliss?src=external-tabliss.io
-Github Dark - https://github.com/StylishThemes/GitHub-Dark
-Http-everywhere - https://www.eff.org/https-everywhere
-Json Viewer - 
