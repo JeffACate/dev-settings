@@ -2,8 +2,8 @@
 Settings for my development environment
 
 ### Fonts
-    * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
-    * [Proxima Soft](https://www.marksimonson.com/fonts/view/proxima-soft)
+* [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
+* [Proxima Soft](https://www.marksimonson.com/fonts/view/proxima-soft)
 
 ### [VS Code Settings](https://github.com/JeffACate/dev-settings/blob/master/vscode/vscode.md)
 
