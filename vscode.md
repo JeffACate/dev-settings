@@ -1,5 +1,5 @@
 [back to home](https://www.github.com/JeffACate/dev-settings/)
-
+[browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md)
 # VS Code Settings
 
 
@@ -84,3 +84,4 @@
 
 <!-- # Settings -->
 [back to home](https://www.github.com/JeffACate/dev-settings/)
+[browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md)

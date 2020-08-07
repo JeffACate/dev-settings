@@ -1,4 +1,5 @@
 [back to home](https://www.github.com/JeffACate/dev-settings/)
+[vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md)
 
 ## Browser Settings
 * [Firefox](https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64&lang=en-US)
@@ -61,3 +62,4 @@
     -[ ] empty to do 
 -->
 [back to home](https://www.github.com/JeffACate/dev-settings/)
+[vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md)
