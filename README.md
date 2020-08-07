@@ -5,7 +5,7 @@ Settings for my development environment
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
 * [Proxima Soft](https://www.marksimonson.com/fonts/view/proxima-soft)
 
-### [VS Code Settings](https://github.com/JeffACate/dev-settings/blob/master/vscode/vscode.md)
+### [VS Code Settings](https://github.com/JeffACate/dev-settings/blob/master/vscode.md)
 
 
 ### System specifics (Locations don't exist yet)
