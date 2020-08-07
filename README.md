@@ -14,8 +14,8 @@ Settings for my development environment
 
 
 ### To do 
-* [ ] [DotNet](https://www.github.com/JeffACate/dev-settings/DotNet)
-* [ ] [Unix](https://www.github.com/JeffACate/dev-settings/README.md#system-specifics-(Locations-don't-exist-yet))
+* [ ] [DotNet](https://www.github.com/JeffACate/dev-settings/README.md#system-specifics-locations-don't-exist-yet)
+* [ ] [Unix](https://www.github.com/JeffACate/dev-settings/README.md#system-specifics-locations-don't-exist-yet)
 * [ ] Setup auto-run
 
 * [ ] README.md

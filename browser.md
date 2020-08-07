@@ -1,3 +1,5 @@
+[back to home](https://www.github.com/JeffACate/dev-settings/README.md)
+
 ## Browser Settings
 * [Firefox](https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64&lang=en-US)
     * Change os=linux64 to appropriate language first.
@@ -6,7 +8,7 @@
 * [Chrome](https://www.google.com/chrome/)
 
 ### Add-ons
-* Extensions [extensions](<!-- link to viewable txt file -->)
+* Extensions
     * [Tabliss.io](https://tabliss.io)
     * [Stylus](https://addons.mozilla.org/addon/tabliss?src=external-tabliss.io)
     * [Http-everywhere](https://www.eff.org/https-everywhere)
@@ -44,7 +46,7 @@
         }
 
         ```
-* Themes 
+* Themes
     * [Stylus]
         * [Github Dark](https://github.com/StylishThemes/GitHub-Dark)
     * [Brave/Chrome]
@@ -58,3 +60,4 @@
 
     -[ ] empty to do 
 -->
+[back to home](https://www.github.com/JeffACate/dev-settings/README.md)
