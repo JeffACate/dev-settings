@@ -9,19 +9,19 @@ Settings for my development environment
 
 
 ### System specifics (Locations don't exist yet)
-* [Windows](https://www.github.com/JeffACate/dev-settings/README.md#system-specifics-locations-don't-exist-yet)
-* [Linus OS](https://www.github.com/JeffACate/dev-settings/README.md#system-specifics-locations-don't-exist-yet)
+* [Windows](https://www.github.com/JeffACate/dev-settings#system-specifics-locations-don't-exist-yet)
+* [Linus OS](https://www.github.com/JeffACate/dev-settings#system-specifics-locations-don't-exist-yet)
 
 
 ### To do 
-* [ ] [Windows](https://www.github.com/JeffACate/dev-settings/README.md#system-specifics-locations-don't-exist-yet)
-* [ ] [Linus OS](https://www.github.com/JeffACate/dev-settings/README.md#system-specifics-locations-don't-exist-yet)
+* [ ] [Windows](https://www.github.com/JeffACate/dev-settings#system-specifics-locations-don't-exist-yet)
+* [ ] [Linus OS](https://www.github.com/JeffACate/dev-settings#system-specifics-locations-don't-exist-yet)
 * [ ] Setup auto-run
 
 * [ ] README.md
-* [ ] [browser](https://www.github.com/JeffACate/dev-settings/browser.md)
+* [ ] [browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md)
     * [] .md
     * [x] extensions.txt
-* [ ] [vscode](https://www.github.com/JeffACate/dev-settings/vscode.md)
+* [ ] [vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md)
     * [ ] .md
     * [x] extensions.txt
