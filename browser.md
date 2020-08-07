@@ -47,9 +47,9 @@
 
         ```
 * Themes
-    * [Stylus]
+    * Stylus
         * [Github Dark](https://github.com/StylishThemes/GitHub-Dark)
-    * [Brave/Chrome]
+    * Brave/Chrome
         * [Just Black](https://chrome.google.com/webstore/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab)
 
 <!--
