@@ -2,8 +2,8 @@
 * [Firefox](https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64&lang=en-US)
     * Change os=linux64 to appropriate language first.
     * [General Settings](about:preferences)
+* [Brave]()
 * [Chrome](https://www.google.com/chrome/)
-
 
 ### Add-ons
 * Extensions [extensions](<!-- link to viewable txt file -->)
@@ -45,7 +45,10 @@
 
         ```
 * Themes 
-    * [Github Dark](https://github.com/StylishThemes/GitHub-Dark)
+    * [Stylus]
+        * [Github Dark](https://github.com/StylishThemes/GitHub-Dark)
+    * [Brave/Chrome]
+        * [Just Black](https://chrome.google.com/webstore/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab)
 
 <!--
 ### Bookmarks
