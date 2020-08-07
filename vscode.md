@@ -1,9 +1,9 @@
 [back to home](https://www.github.com/JeffACate/dev-settings/) |
 [browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md)
-# VS Code Settings
+## VS Code Settings
+* [VS Code](https://code.visualstudio.com/)
 
-
-## Themes/Color
+### Themes/Color
 * Current theme:
   * [Just Black](https://marketplace.visualstudio.com/items?itemName=nur.just-black)
 * Themes to try:
@@ -12,7 +12,7 @@
   * [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
     * add to settings.json - "workbench.iconTheme": "vscode-icons",
 
-## Extensions
+### Extensions
   * See my full list of extensions [here](https://gist.github.com/w3cj/520eb023dd3531d1b654794f65aa434b).
 * [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=coenraads.bracket-pair-colorizer)
   * Matching parenthesis and curly brackets to with colors
@@ -24,7 +24,7 @@
 * [FontSize ShortCuts](https://marketplace.visualstudio.com/items?itemName=fosshaas.fontsize-shortcuts)
   * Change the font size with keyboard shortcuts.
 
-## IntelliSense/AutoComplete
+### IntelliSense/AutoComplete
 
 * [IntelliSense for CSS class names in HTML](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
   * Provides CSS class name completion for the HTML class attribute based on the definitions found in your workspace or external files referenced through the link element
@@ -33,7 +33,7 @@
 * [VS Live Share](https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare)
   * Collaborative editing, debugging, and more inside VS Code
 
-## Useful/Extra
+### Useful/Extra
 
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   * Integrates ESLint JS
