@@ -1,4 +1,4 @@
-[back to home](https://www.github.com/JeffACate/dev-settings/README.md)
+[back to home](https://www.github.com/JeffACate/dev-settings/)
 
 # VS Code Settings
 
@@ -83,4 +83,4 @@
   * Evaluate code/logs inline and show results in the editor
 
 <!-- # Settings -->
-[back to home](https://www.github.com/JeffACate/dev-settings/README.md)
+[back to home](https://www.github.com/JeffACate/dev-settings/)
