@@ -9,13 +9,13 @@ Settings for my development environment
 
 
 ### System specifics (Locations don't exist yet)
-* [Windows](https://www.github.com/JeffACate/dev-settings/DotNet) 
-* [Linus OS](https://www.github.com/JeffACate/dev-settings/Unix)
+* [Windows](https://www.github.com/JeffACate/dev-settings/README.md#system-specifics-locations-don't-exist-yet)
+* [Linus OS](https://www.github.com/JeffACate/dev-settings/README.md#system-specifics-locations-don't-exist-yet)
 
 
 ### To do 
-* [ ] [DotNet](https://www.github.com/JeffACate/dev-settings/README.md#system-specifics-locations-don't-exist-yet)
-* [ ] [Unix](https://www.github.com/JeffACate/dev-settings/README.md#system-specifics-locations-don't-exist-yet)
+* [ ] [Windows](https://www.github.com/JeffACate/dev-settings/README.md#system-specifics-locations-don't-exist-yet)
+* [ ] [Linus OS](https://www.github.com/JeffACate/dev-settings/README.md#system-specifics-locations-don't-exist-yet)
 * [ ] Setup auto-run
 
 * [ ] README.md
