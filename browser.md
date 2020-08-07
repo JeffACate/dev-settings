@@ -1,4 +1,4 @@
-[back to home](https://www.github.com/JeffACate/dev-settings/)
+[back to home](https://www.github.com/JeffACate/dev-settings/) |
 [vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md)
 
 ## Browser Settings
@@ -61,5 +61,5 @@
 
     -[ ] empty to do 
 -->
-[back to home](https://www.github.com/JeffACate/dev-settings/)
+[back to home](https://www.github.com/JeffACate/dev-settings/) |
 [vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md)
