@@ -2,7 +2,7 @@
 * [Firefox](https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64&lang=en-US)
     * Change os=linux64 to appropriate language first.
     * [General Settings](about:preferences)
-* [Brave]()
+* [Brave](https://brave.com/)
 * [Chrome](https://www.google.com/chrome/)
 
 ### Add-ons

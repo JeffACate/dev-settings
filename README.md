@@ -7,14 +7,15 @@ Settings for my development environment
 
 ### [VS Code Settings](https://github.com/JeffACate/dev-settings/blob/master/vscode/vscode.md)
 
-### System specifics
+
+### System specifics (Locations don't exist yet)
 * [Windows](https://www.github.com/JeffACate/dev-settings/DotNet) 
 * [Linus OS](https://www.github.com/JeffACate/dev-settings/Unix)
 
 
 ### To do 
-* [ ] DotNet
-* [ ] Unix
+* [ ] [DotNet](https://www.github.com/JeffACate/dev-settings/DotNet)
+* [ ] [Unix](https://www.github.com/JeffACate/dev-settings/README.md#system-specifics-(Locations-don't-exist-yet))
 * [ ] Setup auto-run
 
 * [ ] README.md
