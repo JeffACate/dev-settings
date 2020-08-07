@@ -20,7 +20,7 @@ Settings for my development environment
 
 * [ ] README.md
 * [ ] [browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md)
-    * [] .md
+    * [ ] .md
     * [x] extensions.txt
 * [ ] [vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md)
     * [ ] .md
