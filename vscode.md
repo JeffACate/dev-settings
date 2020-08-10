@@ -37,46 +37,46 @@
 
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   * Integrates ESLint JS
-  * ```"eslint.enable": true,
-        // "files.exclude": { "**/.*": true },
-        "eslint.validate": [
-          {
-            "language": "vue",
-            "autoFix": true
-          },
-          {
-              "language": "typescript",
+    ```"eslint.enable": true,
+          // "files.exclude": { "**/.*": true },
+          "eslint.validate": [
+            {
+              "language": "vue",
               "autoFix": true
             },
-          {
-            "language": "html",
-            "autoFix": true
-          },
-          {
-            "language": "javascript",
-            "autoFix": true
-          }
-        ], 
-  ```
+            {
+                "language": "typescript",
+                "autoFix": true
+              },
+            {
+              "language": "html",
+              "autoFix": true
+            },
+            {
+              "language": "javascript",
+              "autoFix": true
+            }
+          ], 
+    ```
 * [Beautify](https://marketplace.visualstudio.com/items?itemName=hookyqr.beautify)
   * Automatically format javascript, JSON, CSS, Sass, and HTML files.
   * add to settings.json -
-  ```
-    "editor.tabSize": 2,
-    "editor.detectIndentation": true,
-    "[javascript]": {
-      "editor.defaultFormatter": "HookyQR.beautify"
-    },
-    "[json]": {
-      "editor.defaultFormatter": "HookyQR.beautify"
-    },
-    "[html]": {
-      "editor.defaultFormatter": "HookyQR.beautify"
-    },
-    "[css]": {
-      "editor.defaultFormatter": "HookyQR.beautify"
-    },
-  ```
+    ```
+      "editor.tabSize": 2,
+      "editor.detectIndentation": true,
+      "[javascript]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+      },
+      "[json]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+      },
+      "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+      },
+      "[css]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+      },
+    ```
 * [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
   * Display inline the size of the required/imported package
 * [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
