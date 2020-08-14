@@ -3,16 +3,21 @@
 
 ## Browser Settings
 * [Firefox](https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64&lang=en-US)
-    * Change os=linux64 to appropriate language first.
     * [General Settings](about:preferences)
-* [Brave](https://brave.com/)
-* [Chrome](https://www.google.com/chrome/)
+    * [Advanced settings](about:config)
+        * SET - browser.ctrlTab.recentlyUsedOrder = false
 
 ### Add-ons
 * Extensions
-    * [Tabliss.io](https://tabliss.io)
-    * [Stylus](https://addons.mozilla.org/addon/tabliss?src=external-tabliss.io)
+    * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
+    * [Privacy Badger](https://privacybadger.org/)
+    * [Cookie AutoDelete](https://addons.mozilla.org/en-US/firefox/addon/cookie-autodelete/)
+    * [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
     * [Http-everywhere](https://www.eff.org/https-everywhere)
+    * [Stylus](https://addons.mozilla.org/addon/tabliss?src=external-tabliss.io)
+        * [Github Dark](https://github.com/StylishThemes/GitHub-Dark)
+        * [Stack Overflow Dark](moz-extension://07ae76b8-2b28-46b6-974a-f0103da7dcae/edit.html)
+    * [Tabliss.io](https://tabliss.io)
     * [JSON Viewer - Brave/Chrome](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?h1=en) 
         ```
         Theme: dracula-dark
@@ -47,12 +52,10 @@
         }
 
         ```
-* Themes
-    * Stylus
-        * [Github Dark](https://github.com/StylishThemes/GitHub-Dark)
-    * Brave/Chrome
-        * [Just Black](https://chrome.google.com/webstore/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab)
 
+
+<!-- * Brave/Chrome
+        * [Just Black](https://chrome.google.com/webstore/detail/just-black/aghfnjkcakhmadgdomlmlhhaocbkloab) -->
 <!--
 ### Bookmarks
 
