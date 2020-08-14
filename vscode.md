@@ -6,6 +6,7 @@
 ### Themes/Color
 * Current theme:
   * [Just Black](https://marketplace.visualstudio.com/items?itemName=nur.just-black)
+    * ext install nur.just-black
 * Themes to try:
   * [Seti-Monokai](https://marketplace.visualstudio.com/items?itemName=SmukkeKim.theme-setimonokai)
   * [Seti-Black](https://marketplace.visualstudio.com/items?itemName=bobsparadox.seti-black)
