@@ -17,7 +17,7 @@ Settings for my development environment
 * [ ] [Windows](https://www.github.com/JeffACate/dev-settings#system-specifics-locations-don't-exist-yet)
 * [ ] [Linus OS](https://www.github.com/JeffACate/dev-settings#system-specifics-locations-don't-exist-yet)
 
-* [ ] README.md
+* [ ] [README.md](https://github.com/JeffACate/dev-settings#development-environment)
     * [ ] Add VS Code | settings.json file to project
 * [ ] [browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md)
     * [ ] extensions

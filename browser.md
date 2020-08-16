@@ -15,7 +15,7 @@
     * [Decentraleyes](https://addons.mozilla.org/en-US/firefox/addon/decentraleyes/)
     * [Http-everywhere](https://www.eff.org/https-everywhere)
     * [Stylus](https://addons.mozilla.org/addon/tabliss?src=external-tabliss.io)
-        * [Github Dark](https://github.com/StylishThemes/GitHub-Dark)
+        * [Github Dark](moz-extension://9ed557e8-8284-4dba-9061-fd436898f88b/edit.html?id=1)
         * [Stack Overflow Dark](moz-extension://07ae76b8-2b28-46b6-974a-f0103da7dcae/edit.html)
     * [Tabliss.io](https://tabliss.io)
     * [JSON Viewer - Brave/Chrome](https://chrome.google.com/webstore/detail/json-viewer/gbmdgpbipfallnflgajpaliibnhdgobh?h1=en) 
