@@ -16,12 +16,15 @@ Settings for my development environment
 ### To do 
 * [ ] [Windows](https://www.github.com/JeffACate/dev-settings#system-specifics-locations-don't-exist-yet)
 * [ ] [Linus OS](https://www.github.com/JeffACate/dev-settings#system-specifics-locations-don't-exist-yet)
-* [ ] Setup auto-run
 
 * [ ] README.md
+    * [ ] Add VS Code | settings.json file to project
 * [ ] [browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md)
-    * [ ] .md
-    * [x] extensions.txt
+    * [ ] extensions
+    * [ ] themes
 * [ ] [vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md)
-    * [ ] .md
-    * [x] extensions.txt
+    * [ ] extensions
+    * [ ] themes
+    
+### Stretch
+* [ ] Setup auto-run

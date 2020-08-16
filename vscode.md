@@ -2,7 +2,8 @@
 [browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md)
 ## VS Code Settings
 * [VS Code](https://code.visualstudio.com/)
-
+  * edit settings.json here: ~/.config/Code/User/settings.json
+  
 ### Themes/Color
 * Current theme:
   * [Just Black](https://marketplace.visualstudio.com/items?itemName=nur.just-black)
@@ -36,6 +37,10 @@
 
 ### Useful/Extra
 
+* [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+  * Display inline the size of the required/imported package
+* [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+  * Evaluate code/logs inline and show results in the editor
 * [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
   * Integrates ESLint JS
     ```
@@ -62,7 +67,7 @@
     ```
 * [Beautify](https://marketplace.visualstudio.com/items?itemName=hookyqr.beautify)
   * Automatically format javascript, JSON, CSS, Sass, and HTML files.
-  * add to settings.json -
+  * add to settings.json
     ```
     "editor.tabSize": 2,
     "editor.detectIndentation": true,
@@ -79,10 +84,6 @@
       "editor.defaultFormatter": "HookyQR.beautify"
     },
     ```
-* [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
-  * Display inline the size of the required/imported package
-* [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
-  * Evaluate code/logs inline and show results in the editor
 
 <!-- # Settings -->
 [back to home](https://www.github.com/JeffACate/dev-settings/) |
