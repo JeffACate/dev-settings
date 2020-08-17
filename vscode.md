@@ -2,7 +2,8 @@
 [browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md)
 ## VS Code Settings
 * [VS Code](https://code.visualstudio.com/)
-  * edit settings.json here: ~/.config/Code/User/settings.json
+  * edit settings.json here linux-mint: ~/.config/Code/User/settings.json
+  * edit settings.json here Windows: C:\Users\Jeff\AppData\Roaming\Code\User\settings.json
   
 ### Themes/Color
 * Current theme:
@@ -85,6 +86,77 @@
     },
     ```
 
-<!-- # Settings -->
+### Settings
+```
+{
+  "explorer.openEditors.visible": 0,
+  "editor.snippetSuggestions": "top",
+  "emmet.showAbbreviationSuggestions": false,
+  "editor.formatOnPaste": false,
+  "workbench.colorTheme": "Just Black",
+  "window.zoomLevel": 0,
+  "editor.fontLigatures": true,
+  "terminal.integrated.fontSize": 16,
+  "files.autoSave": "off",
+  "editor.fontFamily": "'Anonymous Pro Regular','Anonymous Pro', Consolas",
+  "markdown.preview.fontSize": 16,
+  "editor.detectIndentation": true,
+  "editor.minimap.enabled": false,
+  "editor.fontSize": 16,
+
+  // "files.exclude": { "**/.*": true },
+  "eslint.validate": [
+    {
+      "language": "vue",
+      "autoFix": true
+    },
+    {
+        "language": "typescript",
+        "autoFix": true
+      },
+    {
+      "language": "html",
+      "autoFix": true
+    },
+    {
+      "language": "javascript",
+      "autoFix": true
+    }
+  ],
+  "workbench.startupEditor": "newUntitledFile",
+  "editor.suggestSelection": "first",
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": [
+          "comment",
+          "comment.block"
+        ],
+        "settings": {
+          "fontStyle": "italic",
+          "foreground": "#ff1493"
+        }
+      },
+      {
+        "scope": [
+          "keyword.operator.logical",
+          "keyword.operator.arithmetic",
+          "keyword.operator.assignment",
+          "keyword.operator.bitwise"
+        ],
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  },
+  "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+  "[scss]": {
+
+    "editor.suggest.insertMode": "replace"
+  }
+}
+```
+
 [back to home](https://www.github.com/JeffACate/dev-settings/) |
 [browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md)
