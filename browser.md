@@ -7,12 +7,9 @@
     * [Advanced settings](about:config)
         * [ ] browser.ctrlTab.recentlyUsedOrder = false
         * [ ] browser.link
-            * [ ] open_newwindow - for links in Firefox tabs
-                * [ ] force new window into same tab = 1
-            * [ ] open_newwindow.restriction - for links in Firefox tabs
-                * [ ] apply the setting under (A) to ALL new windows (even script windows) = 0 
-            * [ ] open_newwindow.override.external - for links in other programs
-                * [ ] open external links in a new tab in the last active window = 3
+            * [ ] open_newwindow(force new window into same tab) = 1
+            * [ ] open_newwindow.restriction = 0 
+            * [ ] open_newwindow.override.external = 3
         
 ### Add-ons
 * Extensions
