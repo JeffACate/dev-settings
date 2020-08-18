@@ -6,11 +6,34 @@
     * [General Settings](about:preferences)
     * [Advanced settings](about:config)
         * [ ] browser.ctrlTab.recentlyUsedOrder = false
-        * [ ] browser.link
-            * [ ] open_newwindow(force new window into same tab) = 1
+        * [ ] browser.link (type: neww)
+            * [ ] open_newwindow = 1
             * [ ] open_newwindow.restriction = 0 
             * [ ] open_newwindow.override.external = 3
-        
+<!--         
+        (A) browser.link.open_newwindow - for links in Firefox tabs
+
+        This is the one that has a checkbox on the Preferences page:
+
+        3 = divert new window to a new tab (default)
+        2 = allow link to open a new window
+        1 = force new window into same tab 
+
+        (B) browse.link.open_newwindow.restriction - for links in Firefox tabs
+
+        By default, if a page sets width, height, or toolbars for a popup, Firefox will let it be a separate window. To force those into a tab as well, you can change this preference to 0:
+
+        0 = apply the setting under (A) to ALL new windows (even script windows with features) 
+        2 = apply the setting under (A) to normal windows, but NOT to script windows with features (default)
+        1 = override the setting under (A) and always use new windows 
+
+        (C) browser.link.open_newwindow.override.external - for links in other programs
+
+        -1 = apply the setting under (A) to external links (default)
+        3 = open external links in a new tab in the last active window
+        2 = open external links in a new window
+        1 = open external links in the last active tab replacing the current page 
+-->
 ### Add-ons
 * Extensions
     * [uBlock Origin](https://addons.mozilla.org/en-US/firefox/addon/ublock-origin/)
