@@ -14,7 +14,7 @@
         (A) browser.link.open_newwindow - for links in Firefox tabs
 
         This is the one that has a checkbox on the Preferences page:
-
+        
         3 = divert new window to a new tab (default)
         2 = allow link to open a new window
         1 = force new window into same tab 
