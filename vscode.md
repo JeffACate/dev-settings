@@ -1,5 +1,7 @@
 [back to home](https://www.github.com/JeffACate/dev-settings/) |
-[browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md)
+[terminal](https://www.github.com/JeffACate/dev-settings/blob/master/Windows/terminal.md) |
+[browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md) |
+
 ## VS Code Settings
 * [VS Code](https://code.visualstudio.com/)
   * edit settings.json here linux-mint: ~/.config/Code/User/settings.json
@@ -157,6 +159,6 @@
   }
 }
 ```
-
 [back to home](https://www.github.com/JeffACate/dev-settings/) |
+[terminal](https://www.github.com/JeffACate/dev-settings/blob/master/Windows/terminal.md) |
 [browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md)

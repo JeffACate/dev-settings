@@ -1,4 +1,5 @@
 [back to home](https://www.github.com/JeffACate/dev-settings/) |
+[terminal](https://www.github.com/JeffACate/dev-settings/blob/master/Windows/terminal.md) |
 [vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md)
 
 ## Browser Settings
@@ -14,7 +15,7 @@
         (A) browser.link.open_newwindow - for links in Firefox tabs
 
         This is the one that has a checkbox on the Preferences page:
-        
+
         3 = divert new window to a new tab (default)
         2 = allow link to open a new window
         1 = force new window into same tab 
@@ -92,4 +93,5 @@
     -[ ] empty to do 
 -->
 [back to home](https://www.github.com/JeffACate/dev-settings/) |
+[terminal](https://www.github.com/JeffACate/dev-settings/blob/master/Windows/terminal.md) |
 [vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md)
