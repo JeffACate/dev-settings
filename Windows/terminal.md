@@ -4,15 +4,21 @@
 
 ## Terminal Settings
 * [Git for Windows - Mintty terminal](https://gitforwindows.org/)
-    * Create/Update: ~/.bashrc
+    * [ ] Update shell settings 
         ```
-        cd ~/current/post-grad/
-        alias l='ls -la'
-        alias e='exit'
+        code ~/.bashrc
         alias a='alias'
-        alias cls='clear'
+        alias e='exit'
+        alias l='ls -la'
+        alias rmdir='rm -rf'
+        alias mk='touch'
+
+        alias c='cd ~/current/'
+        alias p='cd ~/current/post-grad/'
+        alias r='cd ~/current/post-grad/Repos'
+        p
         ```
-    * First-Time Git Setup
+    * [ ] First-Time Git Setup
         ```
         git config --list --show-origin
         git config --global user.name "User Name"
