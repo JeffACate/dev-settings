@@ -1,6 +1,6 @@
-[back to home](https://www.github.com/JeffACate/dev-settings/) |
-[browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md) |
-[vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md)
+[back to home](https://www.github.com/JeffACate/dev-settings#development-environment) |
+[browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md#browser-settings) |
+[vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md#vs-code-settings)
 
 ## Terminal Settings
 * [Git for Windows - Mintty terminal](https://gitforwindows.org/)
@@ -19,6 +19,7 @@
         git config --global user.email myemail@address.com
         git config --global core.editor "code --wait"
         ```
-[back to home](https://www.github.com/JeffACate/dev-settings/) |
-[browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md) |
-[vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md)
+
+[back to home](https://www.github.com/JeffACate/dev-settings#development-environment) |
+[browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md#browser-settings) |
+[vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md#vs-code-settings)

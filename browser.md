@@ -1,6 +1,6 @@
-[back to home](https://www.github.com/JeffACate/dev-settings/) |
-[terminal](https://www.github.com/JeffACate/dev-settings/blob/master/Windows/terminal.md) |
-[vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md)
+[back to home](https://www.github.com/JeffACate/dev-settings#development-environment) |
+[terminal](https://www.github.com/JeffACate/dev-settings/blob/master/Windows/terminal.md#terminal-settings) |
+[vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md#vs-code-settings)
 
 ## Browser Settings
 * [Firefox](https://download.mozilla.org/?product=firefox-latest-ssl&os=linux64&lang=en-US)
@@ -92,6 +92,6 @@
 
     -[ ] empty to do 
 -->
-[back to home](https://www.github.com/JeffACate/dev-settings/) |
-[terminal](https://www.github.com/JeffACate/dev-settings/blob/master/Windows/terminal.md) |
-[vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md)
+[back to home](https://www.github.com/JeffACate/dev-settings#development-environment) |
+[terminal](https://www.github.com/JeffACate/dev-settings/blob/master/Windows/terminal.md#terminal-settings) |
+[vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md#vs-code-settings)

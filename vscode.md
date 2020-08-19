@@ -1,6 +1,6 @@
-[back to home](https://www.github.com/JeffACate/dev-settings/) |
-[terminal](https://www.github.com/JeffACate/dev-settings/blob/master/Windows/terminal.md) |
-[browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md) |
+[back to home](https://www.github.com/JeffACate/dev-settings#development-environment) |
+[terminal](https://www.github.com/JeffACate/dev-settings/blob/master/Windows/terminal.md#terminal-settings) |
+[browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md#browser-settings)
 
 ## VS Code Settings
 * [VS Code](https://code.visualstudio.com/)
@@ -159,6 +159,7 @@
   }
 }
 ```
-[back to home](https://www.github.com/JeffACate/dev-settings/) |
-[terminal](https://www.github.com/JeffACate/dev-settings/blob/master/Windows/terminal.md) |
-[browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md)
+
+[back to home](https://www.github.com/JeffACate/dev-settings#development-environment) |
+[terminal](https://www.github.com/JeffACate/dev-settings/blob/master/Windows/terminal.md#terminal-settings) |
+[browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md#browser-settings)
