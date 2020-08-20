@@ -9,7 +9,7 @@
         code ~/.bashrc
         alias a='alias'
         alias e='exit'
-        alias l='ls -la'
+        alias l='ls -lah'
         alias rmdir='rm -rf'
         alias mk='touch'
 
