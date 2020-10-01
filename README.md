@@ -27,4 +27,4 @@ Settings for my development environment
     * [ ] themes
     
 ### Stretch
-* [ ] Setup auto-run
+* [ ] Setup auto-run  
