@@ -29,4 +29,3 @@ Settings for my development environment
 ### Stretch
 * [ ] Setup auto-run 
 
-<!-- test -->
