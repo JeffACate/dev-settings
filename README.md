@@ -19,13 +19,14 @@ Settings for my development environment
     * Dual boot distro: [Ubuntu](https://ubuntu.com/download/desktop)
 * [ ] [README.md](https://github.com/JeffACate/dev-settings#development-environment)
     * [ ] Add VS Code | settings.json file to project
-* [ ] [browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md#browser-settings)
-    * [ ] extensions
+* [x] [browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md#browser-settings)
+    * [x] extensions
     * [n/a] themes
-* [ ] [vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md#vs-code-settings)
+* [x] [vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md#vs-code-settings)
     * [x] extensions
     * [x] themes
     
 ### Stretch
-* [ ] Setup auto-run 
+* [x] Setup VSCode auto-run 
+* [ ] Script app download script.
 
