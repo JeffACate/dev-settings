@@ -3,7 +3,7 @@ Settings for my development environment
 
 ### 1. Fonts
 * [Anonymous Pro](https://www.marksimonson.com/fonts/view/anonymous-pro)
-* [Proxima Soft](https://www.marksimonson.com/fonts/view/proxima-soft)
+* [Fira Code](https://github.com/tonsky/FiraCode)
 
 ### 2. [Terminal](http://www.github.com/JeffACate/dev-settings/blob/master/Windows/terminal.md#terminal-settings)
 ### 3. [Browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md#browser-settings)
@@ -21,10 +21,10 @@ Settings for my development environment
     * [ ] Add VS Code | settings.json file to project
 * [ ] [browser](https://www.github.com/JeffACate/dev-settings/blob/master/browser.md#browser-settings)
     * [ ] extensions
-    * [ ] themes
+    * [n/a] themes
 * [ ] [vscode](https://www.github.com/JeffACate/dev-settings/blob/master/vscode.md#vs-code-settings)
-    * [ ] extensions
-    * [ ] themes
+    * [x] extensions
+    * [x] themes
     
 ### Stretch
 * [ ] Setup auto-run 
